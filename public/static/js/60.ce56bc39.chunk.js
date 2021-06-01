@@ -1,0 +1,2 @@
+(this["webpackJsonpjlw-mes-admin"]=this["webpackJsonpjlw-mes-admin"]||[]).push([[60],{269:function(i,e,t){"use strict";t.r(e);var n=t(17),a=t(0),o=t.n(a),c=t(633),l=t(631);Object(l.a)();e.default=function(i,e){var t=i.iconName,a=void 0===t?"":t,l=i.size,r=void 0===l?14:l,s=i.color,m=i.marginRight,d=void 0===m?0:m,v=i.style,g=void 0===v?{}:v;return o.a.createElement(c.a,{iconName:a,style:Object(n.a)({fontSize:r,lineHeight:"".concat(r,"px"),verticalAlign:"middle",marginRight:d,color:s},g)})}}}]);
+//# sourceMappingURL=60.ce56bc39.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/uploadQiniu/style.less"],"names":[],"mappings":"AAAA,6BACE,WAAA,CACA,YACF,CAHA,iCAII,cAAA,CACA,eAEJ","file":"48.e4e2643c.chunk.css","sourcesContent":[".avatar-uploader > .ant-upload {\n  width: 180px;\n  height: 180px;\n  img{\n    max-width: 100%;\n    max-height: 100%;\n  }\n}\n\n"]}

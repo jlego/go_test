@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/queryFields/style.less"],"names":[],"mappings":"AAAA,4CAEI,aAAJ","file":"40.0a4b028c.chunk.css","sourcesContent":[".query-fields {\n  .ant-row .ant-col:first-child {\n    max-width: 90%;\n  }\n}\n\n"]}
